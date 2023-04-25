@@ -6,4 +6,5 @@ h1 {
 .pokemonImg {
     height: 300px;
     border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
 }
