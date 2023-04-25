@@ -1,0 +1,9 @@
+h1 {
+    background-color: rgb(249, 211, 211);
+    border-radius: 5px;
+}
+
+.pokemonImg {
+    height: 300px;
+    border-radius: 20px;
+}
